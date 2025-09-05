@@ -1,0 +1,12 @@
+package com.ka.hello;
+ //Greatest Among two no's
+public class Client {
+	
+	public static void main(String[] args) {
+		int a = 33;
+		int b = 25;
+		if (a > b)
+		System.out.println(a is greater !);
+	}
+
+}

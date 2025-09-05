@@ -1,0 +1,10 @@
+package com.ka.hello;
+ 
+public class Client {
+	
+	public static void main(String[] args) {
+	
+			System.out.println("Hello Prasad");
+	}
+
+}

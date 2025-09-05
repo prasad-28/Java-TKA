@@ -1,0 +1,18 @@
+package com.ka.hello;
+
+public class Firstdemo {
+	// Greatest Among two no's
+	public static void main(String[] args) {
+		int a = 20;
+		int b = 20;
+
+		if (a > b)
+			System.out.println("A is Greater than B");
+		if (b > a)
+			System.out.println("B is Greater than A");
+		if (a == b)
+			System.out.println("A and B are equal");
+
+	}
+
+}

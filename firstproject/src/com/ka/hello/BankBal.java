@@ -9,15 +9,16 @@ public class BankBal {
 		double accountBalance = 5000;
 
 		System.out.println("Customer Name: " + CustomerName);
-		System.out.println("--------------------------------");
+		// System.out.println("--------------------------------");
+		System.out.println();
 
 		System.out.println("Customer Account N0. : " + customerAccount);
-		System.out.println("--------------------------------");
+		// System.out.println("--------------------------------");
+		System.out.println();
 
 		System.out.println("Customer Date of Birth: " + CustomerDob);
-		System.out.println("--------------------------------");
-		
-	
+		// System.out.println("--------------------------------");
+		System.out.println();
 
 		// System.out.println(isMinBal);
 
@@ -28,9 +29,10 @@ public class BankBal {
 		} else {
 			System.out.println("Your Bank Balance Is: " + accountBalance);
 		}
-		
-		System.out.println("--------------------------------");
-		System.out.println("Thank You Have Great Date");
+
+		// System.out.println("--------------------------------");
+		System.out.println();
+		System.out.println("***" + "Thank You: Visit Again" + "***");
 
 	}
 
